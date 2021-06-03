@@ -1,2 +1,2 @@
-idf_component_register(SRCS "gattc_demo.c"
+idf_component_register(SRCS "qlukar_ble.c"
                     INCLUDE_DIRS ".")
